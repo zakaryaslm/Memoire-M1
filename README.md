@@ -26,7 +26,3 @@ Différentes méthodes d’estimation de la VaR et de l’Expected Shortfall son
 ## Optimisation de portefeuille
 
 Le projet étudie également l’optimisation de portefeuille à travers la minimisation de la CVaR, avec une comparaison avec l’approche classique de Markowitz fondée sur la minimisation de la variance.
-
-## Rapport
-
-📄 [Consulter le mémoire](rapport/Theorie_des_mesures_de_risque.pdf)
